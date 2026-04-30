@@ -1,3 +1,14 @@
+## 🇧🇷 Português | 🇺🇸 [English](#english)
+
+---
+<!-- conteúdo em português -->
+
+---
+
+<h2 id="english">🇺🇸 English | 🇧🇷 <a href="#português">Português</a></h2>
+
+<!-- conteúdo em inglês -->
+
 ### Olá, eu sou Luigi Arone 👋
 
 Analista de Dados focado em transformar dados brutos
