@@ -1,10 +1,8 @@
-## 🇧🇷 Português | 🇺🇸 [English](#english)
-<!-- conteúdo em português -->
+[![PT-BR](https://img.shields.io/badge/lang-pt--BR-green)](README.md)
 
 ### Hi, I'm Luigi Arone 👋
 
-Data Analyst focused on turning raw data into
-clear, actionable insights.
+Data Analyst focused on turning raw data into clear, actionable insights.
 
 ---
 
