@@ -1,10 +1,8 @@
-<h2 id="english">🇺🇸 English | 🇧🇷 <a href="#português">Português</a></h2>
-<!-- conteúdo em inglês -->
+[![EN](https://img.shields.io/badge/lang-en-blue)](README.en.md)
 
 ### Olá, eu sou Luigi Arone 👋
 
-Analista de Dados focado em transformar dados brutos
-em insights claros e acionáveis.
+Analista de Dados focado em transformar dados brutos em insights claros e acionáveis.
 
 ---
 
@@ -12,13 +10,15 @@ em insights claros e acionáveis.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![COBOL](https://img.shields.io/badge/COBOL-FF8C00?style=flat&logoColor=white)
 
 ---
 
 ### 🏅 Certificações
 
-[![IBM Developer Mainframe](https://images.credly.com/size/110x110/images/CL2MVAL1BRRS)](https://www.credly.com/badges/CL2MVAL1BRRS)
-**IBM Developer Mainframe Certificate** — Credly
+| Certificado | Plataforma | Link |
+|---|---|---|
+| IBM Developer Mainframe Certificate | Coursera | [Verificar](https://www.coursera.org/account/accomplishments/verify/CL2MVAL1BRRS) |
 
 ---
 
