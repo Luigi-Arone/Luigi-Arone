@@ -2,8 +2,6 @@
 
 ### Olá, eu sou Luigi Arone 👋
 
-Analista de Dados focado em transformar dados brutos em insights claros e acionáveis.
-
 ---
 
 ### 🛠 Stack
