@@ -1,16 +1,30 @@
-## Hi there 👋
+### Olá, eu sou Luigi Arone 👋
 
-<!--
-**Luigi-Arone/Luigi-Arone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Dados focado em transformar dados brutos
+em insights claros e acionáveis.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
+---
+
+### 🏅 Certificações
+
+[![IBM Developer Mainframe](https://images.credly.com/size/110x110/images/CL2MVAL1BRRS)](https://www.credly.com/badges/CL2MVAL1BRRS)
+**IBM Developer Mainframe Certificate** — Credly
+
+---
+
+### 📚 Atualmente estudando
+
+🔷 **Trilha de Formação IBM Developer Mainframe** — em andamento
+
+---
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luigi-arone-50787a348/)
