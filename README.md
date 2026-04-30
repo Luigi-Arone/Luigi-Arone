@@ -1,7 +1,4 @@
----
-
 <h2 id="english">🇺🇸 English | 🇧🇷 <a href="#português">Português</a></h2>
-
 <!-- conteúdo em inglês -->
 
 ### Olá, eu sou Luigi Arone 👋
