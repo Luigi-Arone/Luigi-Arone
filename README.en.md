@@ -5,10 +5,6 @@
 
 ---
 
-<h2 id="english">🇺🇸 English | 🇧🇷 <a href="#português">Português</a></h2>
-
-<!-- conteúdo em inglês -->
-
 ### Hi, I'm Luigi Arone 👋
 
 Data Analyst focused on turning raw data into
