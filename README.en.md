@@ -1,0 +1,43 @@
+## 🇧🇷 Português | 🇺🇸 [English](#english)
+
+---
+<!-- conteúdo em português -->
+
+---
+
+<h2 id="english">🇺🇸 English | 🇧🇷 <a href="#português">Português</a></h2>
+
+<!-- conteúdo em inglês -->
+
+### Hi, I'm Luigi Arone 👋
+
+Data Analyst focused on turning raw data into
+clear, actionable insights.
+
+---
+
+### 🛠 Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![COBOL](https://img.shields.io/badge/COBOL-FF8C00?style=flat&logoColor=white)
+
+---
+
+### 🏅 Certifications
+
+| Certificate | Platform | Link |
+|---|---|---|
+| IBM Developer Mainframe Certificate | Coursera | [Verify](https://www.coursera.org/account/accomplishments/verify/CL2MVAL1BRRS) |
+
+---
+
+### 📚 Currently Learning
+
+🔷 **IBM Developer Mainframe Learning Path** — in progress
+
+---
+
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luigi-arone-50787a348/)
