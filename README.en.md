@@ -2,8 +2,6 @@
 
 ### Hi, I'm Luigi Arone 👋
 
-Data Analyst focused on turning raw data into clear, actionable insights.
-
 ---
 
 ### 🛠 Stack
