@@ -1,9 +1,5 @@
 ## 🇧🇷 Português | 🇺🇸 [English](#english)
-
----
 <!-- conteúdo em português -->
-
----
 
 ### Hi, I'm Luigi Arone 👋
 
